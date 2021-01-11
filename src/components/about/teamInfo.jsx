@@ -7,9 +7,9 @@ const about = () => (
     <div>
       <h4 className="font20 weight800">Hoe we zijn begonnen</h4>
       <p className="font15 weight500">
-        De Digitale Upgrade is opericht door Pelle, een student informatica
+        De Digitale Upgrade is opgericht door Pelle, een student informatica
         aan de Vrije Universiteit. Wat oorsprongelijk begon als een kleine 
-        bijverdienste is inmiddels veranderd in een professionele passie en
+        bijverdienste is inmiddels uitgegroeid tot een professionele passie en
         veelbelovende toekomst.
 
       </p>
