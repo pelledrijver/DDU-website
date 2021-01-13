@@ -14,12 +14,13 @@ const about = () => (
     <div className="wrapper">
       <Title title="Over ons." />
       <p className="font20">
-        Wij van De Digitale Upgrade zijn begonnen in 2019 en hebben al ruim 50+
-        tevreden klanten <br/> kunnen helpem met het omzetten van hun VHS videobanden
-        vol dierbare herinneringen. <br/> Wij zijn momenteel de meest goedkope
-        aanbieder van het digitaliseren van videobanden <br/> met een bescheiden 
-        prijs van maar liefst €7,50 per videoband. Daarnaast wordt er altijd <br/> 
-        korting gegeven bij 10 of meer videobanden. 
+
+        De Digitale Upgrade is gestart in 2019 en we hebben nu al 50+ tevreden klanten.  
+        Wij <br/> kunnen uw VHS-videobanden voor u omzetten, zodat u alle mooie herinneringen 
+        zelf <br/> thuis kunt bekijken op uw computer, laptop of tv. Met een met een bescheiden 
+        prijs <br/> van slechts € 7,50 per videoband zijn wij momenteel de goedkoopste aanbieder van <br/>
+        het digitaliseren van videobanden. Bovendien krijgt u bij 10 videobanden of meer <br/> altijd korting. 
+
       </p>
       <Row>
         <Col md={12} lg={4}>

@@ -115,8 +115,9 @@ class Contact extends React.Component {
         <div className="wrapper">
           <Title title="Neem contact op." />
           <p className="font20">
-            Heeft u vragen of twijfelt u ergens over? Laat gerust een berichtje achter of bel ons <br/> 
-            via <a style={{color:"darkBlue"}} href="tel:+31657663787">0657663787</a> zodat wij uw vragen kunnen beantwoorden. 
+            Heeft u vragen of twijfelt u ergens over? Laat gerust een <br/>
+            berichtje achter of bel Pelle: <a style={{color:"darkBlue"}} href="tel:+31657663787"> 06 57 66 37 87</a>.
+    
 
 
          

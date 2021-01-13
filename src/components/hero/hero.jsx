@@ -18,10 +18,10 @@ const hero = () => (
               Dit is De Digitale Upgrade.
             </h1>
             <p className="font20">
-              Bent u klaar om uw waardevolle herinneringen vast te leggen voor de toekomst?
+              Bent u klaar om uw waardevolle herinneringen te laten vastleggen voor de toekomst?
               Wij kunnen uw oude VHS videobanden omzetten naar een moderne digitale opslag, zoals
-              een usb-stick, een harde schijf, een cd-rom, of we kunnen het online opslaan en de
-              bestanden naar u opsturen.
+              een usb-stick, een harde schijf, een cd-rom, of we kunnen het online opslaan en de 
+              bestanden naar u mailen.
             </p>
             <Button label="Stuur een bericht" target={"contact"} />
           </div>
